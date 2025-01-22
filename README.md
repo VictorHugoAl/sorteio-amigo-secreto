@@ -25,7 +25,7 @@ Um projeto simples e interativo que simula um sorteio de amigo secreto. Os usuá
 
 - **HTML5**
 - **CSS3**
-- \*\*JavaScript\*\*
+- **JavaScript**
 
 ### Arquivos principais:
 
